@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on chemistry, data science, programming, microcontrollers, electronics, etc.
+- 🌱 I’m currently learning Rust, ML, AI, KiCAD, OpenSCAD, Blender etc.
+- 👯 I’m looking to collaborate on something easy for start, to discover the correct workflow. Then on everything that is open source...
 
 <!--
 **1kakarot/1kakarot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
